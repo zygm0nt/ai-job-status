@@ -1,0 +1,8 @@
+click
+google-cloud-monitoring
+rich
+pync
+
+google-api-python-client
+
+pyyaml

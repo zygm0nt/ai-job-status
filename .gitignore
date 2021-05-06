@@ -1,0 +1,5 @@
+*.json
+*.p
+init_script.sh
+
+.idea
